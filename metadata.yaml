@@ -1,0 +1,36 @@
+_repo: Zanzibar-city-island-and-coast_69270
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Baker, Frank
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    - Burton, Richard F.
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2022-10-30'
+identifiers:
+  gutenberg: '69270'
+language: en
+pgterms:marc904: https://archive.org/details/zanzibarcityisla01burt_0/page/n7/mode/2up
+  and https://archive.org/details/zanzibarcityisla02burt/page/n7/mode/2up
+pgterms:marc905: 20200429175134burton
+pgterms:marc906: '1872'
+pgterms:marc907: GB
+production_note: KD Weeks, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: Tinsley Brothers,1872.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zanzibar; city, island, and coast
+url: http://www.gutenberg.org/ebooks/69270
